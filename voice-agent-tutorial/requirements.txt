@@ -1,0 +1,4 @@
+anthropic>=2.3
+elevenlabs>=2.75
+sounddevice>=0.5
+numpy>=1.26
